@@ -18,4 +18,7 @@
 <h2>5. Cash out<h2>
 <br>
 <img src="cashout.png">
-
+<br>
+<h2>6. Transaction<h2>
+<br>
+<img src="trans_successfull.png">
